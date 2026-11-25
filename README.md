@@ -66,11 +66,7 @@ Examples of tools used during the assessment include:
 
 - Nmap
 - Burp Suite
-- OWASP ZAP
-- Nikto
-- Metasploit Framework
 - Wireshark
-- Gobuster
 - WhatWeb
 
 Key Outcomes:
