@@ -21,6 +21,7 @@ The project was conducted using a structured penetration testing approach and vu
   <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Waqas%20Karim%20CCIE-C00000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lanre_E_%20Benson%20-903390?style=flat-square" />
 </p>
 
 --
