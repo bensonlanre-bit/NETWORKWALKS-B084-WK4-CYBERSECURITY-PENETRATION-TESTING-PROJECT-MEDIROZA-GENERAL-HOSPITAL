@@ -4,7 +4,8 @@ The project was conducted using a structured penetration testing approach and vu
 <div align="center">
 
 
-🔐 PENETRATION TESTING PROJECT AND VULNERABILITY ASSESSMENT; MEDIROZA GENERAL HOSPITAL.
+🔐 PENETRATION TESTING PROJECT AND VULNERABILITY ASSESSMENT; MEDIROZA GENERAL HOSPITAL
+
 **Building an isolated virtual lab for penetration testing and vulnerability practice**
 </div>
 
